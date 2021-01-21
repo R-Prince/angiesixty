@@ -388,3 +388,7 @@
 			})();
 
 })(jQuery);
+
+function openModal(){
+	$('#modal1').modal();
+}
